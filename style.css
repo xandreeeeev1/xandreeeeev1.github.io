@@ -1,0 +1,54 @@
+/* header */
+header {
+    background-color: rgb(201, 201, 201);
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+/* navigation*/
+nav ul {
+    display: flexbox;
+    list-style: none;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+nav a {
+    border-radius: 15px;
+    padding: 1em;
+    color: rgb(110, 105, 105);
+}
+
+/* main section */
+.container {
+    background: #ffff;   
+    box-shadow: 2px 2px 5px;
+    max-width: 1200px;
+    padding: 20px;
+    margin: 20px auto;
+}
+/*figure figcaption */
+figure {
+    
+    padding: 0.5em 1em;
+}
+
+figure figcaption {
+    font-size: 80%;
+    text-align: right;
+}
+
+    footer {
+        background-color: rgb(201, 201, 201);
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    }
+
+    nav a:hover {
+        background-color: rgb(255, 255, 255);
+    }
+    main h2 {
+        color:rgb(83, 83, 83)
+    }
